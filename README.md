@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sarahamir. I'm a PhD candidate at University of Florida. I'm a graduate research assistant in Florida Institute of CyberSecurity (FICS) working with hardware security, logic obfuscation, Benchmark development, Tool development.
+- 👀 I’m interested in disect and analyze netlist designs for security assessment and improvment. I generally work with Java to parse verilog netlist into graph or with MATLAB to parse it into mathematical matrices to further study and alter.
+- 🌱 I’m currently learning attrebutes to design stronger circuits to defy hardware attacks.
+- 💞️I’m looking to collaborate on anything interesting related to circuit designs, evaluation, assessment, improvment, obfuscation etc.
+- 📫 Reach me at prema.buet@gmail.com
